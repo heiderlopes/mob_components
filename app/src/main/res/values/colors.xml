@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="defaultToastBackground">#3c3b39</color>
+    <color name="successToastBackground">#49b150</color>
+    <color name="errorToastBackground">#f5443c</color>
+    <color name="infoToastBackground">#3e51b7</color>
+    <color name="warningToastBackground">#ff9a00</color>
+
+    <color name="defaultToastTextColor">#FFF</color>
+    <color name="successToastTextColor">#FFF</color>
+    <color name="errorToastTextColor">#FFF</color>
+    <color name="infoToastTextColor">#FFF</color>
+    <color name="warningToastTextColor">#FFF</color>
+
+</resources>
