@@ -3,16 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/button_bg_disabled.xml" value="0.211" />
+        <entry key="app/src/main/res/drawable/button_bg_normal.xml" value="0.211" />
         <entry key="app/src/main/res/drawable/ic_error.xml" value="0.225" />
         <entry key="app/src/main/res/drawable/ic_info.xml" value="0.225" />
         <entry key="app/src/main/res/drawable/ic_success.xml" value="0.225" />
         <entry key="app/src/main/res/drawable/ic_warning.xml" value="0.225" />
+        <entry key="app/src/main/res/drawable/loading_button_background.xml" value="0.211" />
         <entry key="app/src/main/res/drawable/toast_bg_default.xml" value="0.224" />
         <entry key="app/src/main/res/drawable/toast_bg_error.xml" value="0.224" />
         <entry key="app/src/main/res/drawable/toast_bg_info.xml" value="0.224" />
         <entry key="app/src/main/res/drawable/toast_bg_success.xml" value="0.224" />
         <entry key="app/src/main/res/drawable/toast_bg_warning.xml" value="0.224" />
         <entry key="app/src/main/res/layout/custom_toast.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/loading_button.xml" value="0.34646739130434784" />
       </map>
     </option>
   </component>
